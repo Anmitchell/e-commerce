@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "tw-animate-css";
 
 /* 1) Theme tokens (v4 way). Generates bg-background, text-foreground, etc. */
 /* @tailwind v4 directive */
